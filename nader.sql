@@ -76,6 +76,7 @@ VALUES('bnoo');
 
 UPDATE countries 
 SET name = 'saad', Cont= 'moool
+DELETE FROM prducts WHERE price='200';
 
 
     
